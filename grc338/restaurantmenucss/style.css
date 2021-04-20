@@ -1,0 +1,86 @@
+/*CSS DOCUMENT*/
+html {
+background: #fae1e6;
+background-image: linear-gradient(270deg, rgb(250, 225, 230) 0%, rgb(250, 180, 194) 100%);
+}
+body {
+background: #fae1e6;
+box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+color: #4d4b5e;
+font-family: serif;
+font-size: 1em;
+line-height: 1.5;
+margin: 0 auto;
+max-width: 800px;
+padding: 3em 3em 1em 1em;
+font-weight: 300;
+}
+body {
+font-size: 100%;
+}
+p.price {
+color: #001e4f;
+font-weight: 600;
+}
+p.division {
+text-transform: uppercase;
+}
+h1 {
+font-size:3em;   
+text-align: center;
+margin: 0em 0em 0em 0em;
+}
+h2 {
+font-size: 2em;
+margin: 0em 0em 0em 0em;
+}
+p {
+font-size: 1em;
+margin: 0em 0em 0.5em;
+}
+h4 {
+color: #b30272;
+font-weight: 600;
+padding: 1em 0em 0em 0em;
+}
+h3 {
+color: #7d0250;
+font-weight: 600;
+line-height: 1;
+padding: 2em 0em 0em 0em;
+}
+h2 {
+color: #4f0032;
+font-weight: 600;
+line-height: 1;
+padding: 0em 0em 0em 0em;
+}
+h1 {
+color: #3d74ff;
+font-weight: 600;
+line-height: 1.3;
+text-transform: uppercase;
+}
+h2 {
+margin-top: 1.3em;
+}
+a {
+color: #0083e8;
+}
+b, strong {
+font-weight: 600;
+}
+samp {
+display: none;
+}
+li {
+list-style-type: square;
+}
+img {
+background: transparent;
+border: 10px solid rgba(0, 0, 0, 0.12);
+border-radius: 4px;
+display: block;
+margin: 1.3em auto;
+max-width: 95%;
+}
