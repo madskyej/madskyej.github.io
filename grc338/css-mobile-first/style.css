@@ -1,0 +1,83 @@
+/*CSS DOCUMENT*/
+
+
+html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i, center,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary,time, mark, audio, video {margin: 0;	padding: 0;	border: 0;	vertical-align: baseline;} /*My edited version of the Eric Meyer’s reset tool. Feel free to keep it or delete it. */
+
+img {
+    width: 100%; /*Please leave this line.*/
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+header{
+    margin: 2em;
+}
+
+body {
+    background-color: #CEE7E6;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+
+}
+
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1em;
+    font-style: normal;
+    color: #648767;
+
+}
+
+h2 {
+    color: #65743A;
+    align-content: center;
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    color: #330F0A;
+}
+li {
+  list-style: square;
+  color: #330F0A;
+  margin-top: 1em;
+}
+
+figure{
+    margin: 2em;
+}
+
+figcaption {
+    align-content: center;
+    padding-top: 0.5em;
+}
+
+.ingredients{
+    padding: 3em;
+}
+
+.directions{
+    padding: 3em;
+    line-height: 3em;
+}
+
+ol {
+    padding: 3em;
+}
+
+footer{
+    text-align: center;
+}
