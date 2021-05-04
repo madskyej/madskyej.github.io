@@ -80,7 +80,7 @@ li {
 	margin-top: 1em;
 }
 
-li {
+ul, ol, li {
 	margin: 1em 0em 0em 0em;
 }
 
