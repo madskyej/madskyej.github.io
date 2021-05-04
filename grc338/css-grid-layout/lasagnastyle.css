@@ -35,8 +35,9 @@ figure {
 }
 
 img {
-	width: 100%;
-	/*Please leave this line.*/
+	width: 100%; /*Please leave this line.*/
+	padding-top: 10%;
+    	padding-bottom: 10%;
 }
 
 figcaption {
