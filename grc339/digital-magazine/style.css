@@ -97,10 +97,11 @@ section {
 figcaption {
 		font-family: ingra, sans-serif;
 		font-style: italic;
+		font-weight: 300;
 		font-size: 1em;
 		text-transform: uppercase;
 		color: #3d405b;
-		margin-bottom: 2em;
+		margin: 0.5em 0em 1em 0em;
 	
 	}
 
