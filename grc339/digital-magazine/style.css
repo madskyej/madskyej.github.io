@@ -94,7 +94,15 @@ section {
 	max-width: 40em;
 	margin: 0 auto 3em;
 }
-
+figcaption {
+		font-family: ingra, sans-serif;
+		font-style: italic;
+		font-size: 1em;
+		text-transform: uppercase;
+		color: #3d405b;
+		margin-bottom: 2em;
+	
+	}
 
 /*responsive screens*/
 
@@ -142,15 +150,6 @@ section {
 	section.mainstory figure div img {
 		height: 100%;
 		opacity: 0;
-	}
-	section.mainstory figcaption{
-		font-family: ingra, sans-serif;
-		font-style: italic;
-		font-size: 1em;
-		text-transform: uppercase;
-		color: #3d405b;
-		margin-bottom: 2em;
-	
 	}
 	section.mainstory h3 {
 		flex: 0 0 auto;
