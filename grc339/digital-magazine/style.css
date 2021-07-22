@@ -39,14 +39,11 @@ div.container {
     max-width: 70em;
     margin: auto;
 }
-
 figure {
     margin: 0;
 }
-
 img {
     width: 100%;
-}
 }
 h1{
     width: 40%;
