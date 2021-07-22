@@ -1,10 +1,14 @@
 /*CSS document*/
+@import url=("https://use.typekit.net/efo8iej.css");
+    
 header{
     grid-column: 1/3;
 }
 body {
     background-color: #EDF6F9;
-    font-family: Ingra, sans-serif;
+    font-family: ingra, sans-serif;
+    font-style: normal;
+    font-weight: 200;
 }
 a {
     text-decoration: none;
@@ -49,11 +53,15 @@ h1{
     width: 40%;
 }
 h2{
-    font-family: Cardea, serif;
+    font-family: cardea, serif;
+    font-style: normal;
+    font-weight: 400;
     color: #006D77;
 }
 h3{
-    font-family: Cardea, serif;
+    font-family: cardea, serif;
+    font-style: normal;
+    font-weight: 400;
     color: #006D77;
     margin: 0em;
 }
