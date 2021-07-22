@@ -6,7 +6,7 @@ header {
 }
 
 body {
-	background-color: #ffece6;
+	background-color: ##fcf1ed;
 	font-family: ingra, sans-serif;
 	font-style: normal;
 	font-weight: 400;
@@ -15,6 +15,11 @@ body {
 
 a {
 	text-decoration: none;
+}
+
+p {
+    color: #3d405b;
+    margin: 0em 0em 1em 0em;
 }
 
 ul {
@@ -40,7 +45,7 @@ nav ul li {
 }
 
 nav ul li a {
-	color: #27293b;
+	color: #3d405b;
 	text-decoration: none;
 }
 
