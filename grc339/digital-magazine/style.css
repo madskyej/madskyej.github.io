@@ -5,6 +5,8 @@ header {
 	grid-column: 1/3;
 }
 
+main {
+	grid-column: 1/2;
 body {
 	background-color: #fcf1ed;
 	font-family: ingra, sans-serif;
@@ -92,7 +94,7 @@ aside {
 
 section {
 	max-width: 40em;
-	margin: 0 auto 3em;
+	margin: 0 auto 2em;
 }
 figcaption {
 		font-family: ingra, sans-serif;
