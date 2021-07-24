@@ -234,13 +234,10 @@ footer{
 }
 	
 	/*Newsletter*/
-	div.newsletter {
-    		max-width: 50em;
-    		margin: auto;
-	}
 
-	main.newsletter {
+	main.newsletter h2 {
    		display: block;
+		margin-bottom: 0.5em;
 	}
 
 	section.personal-info ul li {
@@ -258,26 +255,20 @@ footer{
 	}
 
 	section.personal-info ul li label {
-    	flex: 0 0 10em;
+    		flex: 0 0 10em;
 	}
 
-	section.order ul,
-	section.method ul {
+	section.form ul{
     		display: flex;
     		flex-wrap: wrap;
 	}
 
-	section.order ul li,
-	section.method ul li {
-    	flex: 1 0 13em;
+	section.form ul li{
+    		flex: 1 0 13em;
 	}
 
 	main.newsletter section {
-    	max-width: 60em;
-	}
-
-	main.newsletter h2 {
-   		margin: 0em 0em 0em 0em;
+    		max-width: 60em;
 	}
 
 	section p {
@@ -291,7 +282,7 @@ footer{
     	background: #fcfcfc;
     	border: 1px solid #e8e8e8;
     	padding: 0.4em;
-    	font-family: ingra, sans-serif;
+    	font-family: sans-serif;
     	color: #777;
 	}
 
