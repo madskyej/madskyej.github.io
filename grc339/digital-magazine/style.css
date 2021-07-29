@@ -75,6 +75,7 @@ h2 {
 	font-style: normal;
 	font-weight: 500;
 	color: #006D77;
+    font-size: 1.4em;
 }
 
 h3 {
@@ -84,6 +85,7 @@ h3 {
 	color: #006D77;
 	margin: 0em;
 	padding: 1em 1em 0 0;
+    font-size: 1.4em;
 }
 
 aside {
@@ -141,6 +143,7 @@ button {
 	padding: 1em;
  	font-size: 1em;
  	border: none;
+    background: #83C5BE;
 
 }
 
@@ -264,7 +267,7 @@ section.personal-info ul li input {
 	}
 	section.mainstory figure div {
 		flex: 1 0 18em;
-		background-image: url(bigsurbridge.jpeg);
+		background-image: url(bigsurbridge.jpg);
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position: center;
